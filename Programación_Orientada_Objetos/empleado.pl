@@ -1,6 +1,6 @@
 #!/usr/bin/perl -w
 
-use clasePersona;
+use Persona;
 
 $objeto = new Persona("Robert","Vasquez",84395823523);
 #Obtener Primer Nombre Donde se Establecio Usando el Constructor
